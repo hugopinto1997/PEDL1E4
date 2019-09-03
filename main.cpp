@@ -2,8 +2,6 @@
 #include "cstring"
 using namespace std;
 
-char clave[] = "murcielago";
-
 
 void codificar(char *p){
     while(*p != '\0'){ //mientras no lleguemos al espacio vacio dejado a proposito
